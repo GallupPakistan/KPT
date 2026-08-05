@@ -1,4 +1,5 @@
 altair
 pandas
-streamlit
+streamlit==1.60.0
 plotly
+starlette<1.4.0
